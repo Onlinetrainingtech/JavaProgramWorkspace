@@ -1,0 +1,18 @@
+
+public class Demo {
+
+	public void function1()
+	{
+		System.out.println("Welcome to function-1");
+	}
+	public void function2()
+	{
+		
+	}
+	
+	public static void main(String[] args) {
+		
+
+	}
+
+}
